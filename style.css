@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url(love.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.banner1{
+    max-width: 500px;
+    margin: 120px auto 20px;
+    padding: 20px;
+    background-color: rgba(233, 213, 177, 0.685);
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
+.banner2{
+    max-width: 500px;
+    margin: 20px auto 0px;
+    padding: 20px;
+    background-color: rgba(233, 213, 177, 0.685);
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    font-family: Platypi, serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul{
+    padding-left: 170px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+ul li{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
